@@ -219,6 +219,7 @@ describe("shout(string)", function () {
 
 We know that the test is expecting a function called `shout` that accepts an
 argument. The error tells us that `shout` isn't defined. So let's start by
+
 declaring our function in `index.js`:
 
 ```js
